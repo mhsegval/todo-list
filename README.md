@@ -1,4 +1,4 @@
-# TODO List App
+# TODO List App using React
 
 Todo list app to keep track of your todo's of the day
 
