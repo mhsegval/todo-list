@@ -1,21 +1,21 @@
 .task-completed {
-    text-decoration: line-through;
+  text-decoration: line-through;
 }
 
 .scrollspy-example {
-    height: 300px;
-    margin-top: 0.5rem;
-    overflow: auto;
+  height: 300px;
+  margin-top: 0.5rem;
+  overflow: auto;
 }
 
 .no-task {
-    height: 50vh;
+  height: 50vh;
 }
 
 .container {
-    border-radius: 3px;
+  border-radius: 3px;
 }
 
 span {
-    font-size: large;
+  font-size: large;
 }

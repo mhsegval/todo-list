@@ -1,7 +1,13 @@
 {
   "name": "todo",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "description": "Todo list app to keep track of your todo's of the day",
+  "license": "MIT",
+  "author": {
+    "email": "mohammedsegval53@gmail.com",
+    "name": "Mohammed Segval"
+  },
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.2.0",
     "@fortawesome/react-fontawesome": "^0.2.0",

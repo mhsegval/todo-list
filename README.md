@@ -21,3 +21,7 @@ $ npm i
 ```sh
 $ npm start
 ```
+
+# License
+
+This program is free software under MIT license. Please see the [LICENSE](LICENSE) file in our repository for the full text.
