@@ -5,7 +5,7 @@ function List(props) {
   if (tasks.length >= 1) {
     return (
       <section>
-        <div className="scrollspy-example bg-dark p-3 rounded-2 text-light">
+        <div className="scrollspy-example flex flex-row bg-dark p-3 rounded-2 text-light">
           <div className="container">
             {tasks
               .sort((a, b) => b.timeStamp - a.timeStamp)

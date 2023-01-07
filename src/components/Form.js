@@ -17,7 +17,7 @@ function Form({ handleChange, value, handleSubmit, updateToDo }) {
                 onChange={handleChange}
                 value={value}
               />
-              <button className="btn btn-primary btn-lg p-md-2 p-1" type="button" onClick={handleSubmit}>
+              <button className="btn btn-primary p-md-2 p-1" type="button" onClick={handleSubmit}>
                 {updateToDo ? 'Update' : 'Add'}
               </button>
             </div>
